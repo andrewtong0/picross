@@ -1,4 +1,4 @@
-# re_picross
+# Picross
 
 A recreation of classic puzzle game "Picross" in GM: Studio version 1.4.1763. The majority of the game is handled within the obj_handler object. (Accessible through file directory - re_picross/Picross.gmx/objects/obj_handler.object.gmx - note that lines 1 - 27 are automatically generated within the game engine. There are also some additional lines strung throughout the code that are native to the program that do not display the same as within GM: Studio.
 
