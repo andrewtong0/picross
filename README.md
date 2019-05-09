@@ -1,5 +1,8 @@
 # Picross
 
+### Demo Video
+[![Demo Video](https://i.imgur.com/s4cpOqA.png)](https://www.youtube.com/watch?v=Fwusal6Msfs)
+
 A recreation of classic puzzle game "Picross" in GM: Studio version 1.4.1763. The majority of the game is handled within the obj_handler object. (Accessible through file directory - re_picross/Picross.gmx/objects/obj_handler.object.gmx - note that lines 1 - 27 are automatically generated within the game engine. There are also some additional lines strung throughout the code that are native to the program that do not display the same as within GM: Studio.
 
 The puzzle generation is modular and can be expanded infinitely, assuming the computer is capable of both displaying and handling your grid specifications. The grid generation is handled in individual line array declaration (which should be in a double for loop instead - one for each dimension), but I haven't gotten around to doing that yet.
