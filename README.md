@@ -1,5 +1,7 @@
 # Picross
 
+[PLAY WEB VERSION HERE (HTML5)](http://andrewtong.me/PicrossWebApp/)
+
 ### Demo Video
 [![Demo Video](https://i.imgur.com/s4cpOqA.png)](https://www.youtube.com/watch?v=Fwusal6Msfs)
 
